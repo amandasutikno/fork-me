@@ -1,4 +1,4 @@
-# fork-me
+ # fork-me
 A repo for pull request example. Please add **one** sentence after your name to describe who you are.
 
 ## MIS3615
@@ -10,7 +10,7 @@ James	Cantoni
 
 Jessica	Carson
 
-Amanda Chrisanty
+Amanda Chrisanty: Hello
 
 Vibhor Dhadda
 
